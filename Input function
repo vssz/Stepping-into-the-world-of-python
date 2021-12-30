@@ -1,0 +1,5 @@
+print('Python is fun.')
+print("I" + ' ' + "like" + ' ' + "it.")
+greeting = "Hello"
+name = input("Please enter your name")
+print(greeting + ' ' + name)
