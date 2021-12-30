@@ -1,0 +1,18 @@
+splitString = "This string has been\nsplit over\nseveral\nlines"
+print(splitString)
+print()
+tabbedString = "1\t2\t3\t4\t5"
+print(tabbedString)
+print()
+print('The pet shop owner said "No, no, \'e\'s uh,...he\'s resting".')
+# I can also do this:
+print("The pet shop owner said \"No, no, 'e's uh,...he's resting\".")
+# Now with three quotes:
+print("""The pet shop owner said "No, no, 'e's uh,...he's resting".""")
+print()
+anotherSplitString = """This string is \
+on the \
+same \
+line"""
+
+print(anotherSplitString)
