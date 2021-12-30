@@ -1,0 +1,11 @@
+greeting = "Hello"
+print(greeting)
+print(type(greeting))
+
+age = 24
+print(age)
+print(type(age))
+
+age = "2 years"
+print(age)
+print(type(age))
